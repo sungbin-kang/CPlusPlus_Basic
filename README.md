@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CPlusPlus_Basic
-=======
 # CPlusPlus_Basic
 
 This folder contains my notes about C++ basics.
@@ -24,6 +21,3 @@ This folder contains my notes about C++ basics.
 * StringComparison
 * substring
 * typedef
->>>>>>> 4e99c79... initial upload
-
-done?
