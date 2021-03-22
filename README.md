@@ -25,3 +25,5 @@ This folder contains my notes about C++ basics.
 * substring
 * typedef
 >>>>>>> 4e99c79... initial upload
+
+done?
